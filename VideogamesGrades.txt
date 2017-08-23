@@ -1,0 +1,65 @@
+{
+	"class-name" : "Videogames",
+	"classroom-number" : 101,
+	"start-date" : "08/22/2017",
+	"students" : 
+	[
+	   {
+	      "name": "Carlos",
+	      "age": "36",
+	      "grades": 
+		[
+			{
+				"name": "NoobDeveloper",
+				"grade": 5
+			},
+			{
+				"name": "IntermediateDeveloper",
+				"grade": 5
+			},
+			{
+				"name": "ProDeveloper",
+				"grade": 5
+			}
+		]
+    	   },
+	   {
+		"name": "Alejandro",
+	      	"age": "22",
+	      	"grades": 
+		[
+			{
+				"name": "NoobDeveloper",
+				"grade": 4
+			},
+			{
+				"name": "IntermediateDeveloper",
+				"grade": 3
+			},
+			{
+				"name": "ProDeveloper",
+				"grade": 2
+			}
+		]
+	   },
+	   {
+		"name": "Pepito",
+	      	"age": "40",
+	      	"grades": 
+		[
+			{
+				"name": "NoobDeveloper",
+				"grade": 5
+			},
+			{
+				"name": "IntermediateDeveloper",
+				"grade": 5
+			},
+			{
+				"name": "ProDeveloper",
+				"grade": 4
+			}
+		]
+	   }
+	]
+}
